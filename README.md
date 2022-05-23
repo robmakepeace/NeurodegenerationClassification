@@ -19,7 +19,7 @@ Neurological degeneration is a significant and irreversible medical condition wh
 [OASIS-Brains Demographic Data](/Data/oasis_longitudinal_demographics.csv)
 
 ## Scripts
-![Results](/Assets/Results.png)
+![Results](/Assets/Results.PNG)
 
 ## Scripts
 [Scripts](/Scripts)
