@@ -28,4 +28,4 @@ Neurological degeneration is a significant and irreversible medical condition wh
 [Data](https://github.com/robmakepeace/NeurodegenerationClassification/tree/main/Data)
 
 ## Images
-![Brain GIF](/Assets/brainslivegif.gif)
+<img src="/Assets/brainslivegif.gif" width="500" height="500"/>
